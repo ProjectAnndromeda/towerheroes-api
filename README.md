@@ -74,6 +74,8 @@ This is a simple Flask API to fetch Tower Hero character data.
   "gender": "Male",
   "price": "0",
   "limit": "12",
+},
+{
   "level 1": {
     "mana_cost": "5",
     "damage": "10",
@@ -82,6 +84,8 @@ This is a simple Flask API to fetch Tower Hero character data.
     "rate": "1.5",
     "dps": "6.67"
   },
+}
+{
   "level 2": {
     "mana_cost": "10",
     "damage": "20",
