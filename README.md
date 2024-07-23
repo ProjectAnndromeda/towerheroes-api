@@ -15,7 +15,7 @@ This is a simple Flask API to fetch Tower Hero character data.
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/ProjectAnndromeda/towerheroes-api
+    git clone https://github.com/ProjectAnndromeda/towerheroes-api.git
     cd towerheroes-api
     ```
 
