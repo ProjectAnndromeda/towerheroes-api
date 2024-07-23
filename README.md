@@ -104,8 +104,4 @@ This API is currently in alpha. Many features do not work as intended. Consider 
 If you use or modify this code, please include the following attribution in any related documentation or publicly accessible materials: "Powered by Anndromeda™ by Alina."
 
 ## License
-This code is provided under the terms of the [LICENSE.md](LICENSE.md) file included in this distribution.
-
-
-
-
+This code is provided under the terms of the [LICENSE.md](LICENSE.txt) file included in this distribution.
